@@ -1,4 +1,4 @@
-import { handlesSumClick, handlesSubtClick, handlesMultiClick, handlesDivClick} from './handlers.js';
+import { handlesSumClick, handlesSubtClick, handlesMultiClick, handlesDivClick } from './handlers.js';
 
 // import functions and grab DOM elements:
 

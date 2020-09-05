@@ -20,46 +20,46 @@ test('time to test a function', (expect) => {
 });
 
 
-const test1 = QUnit.test;
+// const test1 = QUnit.test;
 
-test('should return 7 if passed 3 & 4', (expect) => {
-    const expected = 7;
-    const firstNum = 3;
-    const secondNum = 4;
+// test('should return 7 if passed 3 & 4', (expect) => {
+//     const expected = 7;
+//     const firstNum = 3;
+//     const secondNum = 4;
 
-    const actual = addTwoNums(firstNum, secondNum);
-    expect.equal(actual, expected);
-});
+//     const actual = addTwoNums(firstNum, secondNum);
+//     expect.equal(actual, expected);
+// });
 
-const test2 = QUnit.test;
+// const test2 = QUnit.test;
 
-test('should return 3 if passed 7 & 4', (expect) => {
-    const expected = 3;
-    const firstNum = 7;
-    const secondNum = 4;
+// test('should return 3 if passed 7 & 4', (expect) => {
+//     const expected = 3;
+//     const firstNum = 7;
+//     const secondNum = 4;
 
-    const actual = subtTwoNums(firstNum, secondNum);
-    expect.equal(actual, expected);
-});
+//     const actual = subtTwoNums(firstNum, secondNum);
+//     expect.equal(actual, expected);
+// });
 
-const test3 = QUnit.test;
+// const test3 = QUnit.test;
 
-test('should return 15 if passed 5 & 3', (expect) => {
-    const expected = 15;
-    const firstNum = 5;
-    const secondNum = 3;
+// test('should return 15 if passed 5 & 3', (expect) => {
+//     const expected = 15;
+//     const firstNum = 5;
+//     const secondNum = 3;
 
-    const actual = multiTwoNums(firstNum, secondNum);
-    expect.equal(actual, expected);
-});
+//     const actual = multiTwoNums(firstNum, secondNum);
+//     expect.equal(actual, expected);
+// });
 
-const test4 = QUnit.test;
+// const test4 = QUnit.test;
 
-test('should return 6 if passed 12 & 2', (expect) => {
-    const expected = 6;
-    const firstNum = 12;
-    const secondNum = 2;
+// test('should return 6 if passed 12 & 2', (expect) => {
+//     const expected = 6;
+//     const firstNum = 12;
+//     const secondNum = 2;
 
-    const actual = divTwoNums(firstNum, secondNum);
-    expect.equal(actual, expected);
-});
+//     const actual = divTwoNums(firstNum, secondNum);
+//     expect.equal(actual, expected);
+// });
